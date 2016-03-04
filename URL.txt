@@ -1,3 +1,4 @@
 ■UNIXディレクトリのファイル名：http://d.hatena.ne.jp/ytakano/20100715/1279219401
 ■＠ITのVBAの記事：http://www.atmarkit.co.jp/ait/articles/1409/17/news020.html
 ■SIがハッピーになれない：http://enterprisezine.jp/dbonline/detail/7688?p=3
+■Qiita:Intellij便利：http://qiita.com/yoppe/items/f7cbeb825c071691d3f2
