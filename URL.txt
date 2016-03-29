@@ -4,3 +4,4 @@
 ■Qiita:Intellij便利：http://qiita.com/yoppe/items/f7cbeb825c071691d3f2
 ■アジャイル時代のSIビジネス（4）http://www.atmarkit.co.jp/ait/articles/1603/23/news012.html
 ■ANAのシステムの論文：http://www.unisys.co.jp/tec_info/tr118/118abs.htm
+■技術書即売会：https://codezine.jp/article/detail/9326
